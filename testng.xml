@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  
+    <classes>
+      <class name="testing_basics.Special_TestNG"/>
+      <class name="testNG.Rediff_SoftAssert"/>
+      <class name="testing_basics.Multiple_TestCases_Class"/>
+      <class name="testNG.LearningAssertions"/>
+      <class name="testNG.Priorty_TestCases_Execution"/>
+      <class name="testing_basics.Assertion_Concept"/>
+      <class name="testNG.Dependencies_TestCases"/>
+      <class name="testing_basics.Concepts_dataProvider"/>
+      <class name="testNG.SoftAssert_Learing"/>
+      <class name="testNG.DataProvider_Concept"/>
+      <class name="testNG.ITestContext_Learning"/>
+      <class name="testNG.OnlyTestCases_NoOtherTestNGAssertions"/>
+      <class name="testNG.HardAssert_vs_SoftAssert"/>
+      <class name="data_DataProvider.TestCases_DataProvider"/>
+      <class name="testing_basics.Rediff_Code"/>
+      <class name="testNG.AlwaysRun"/>
+      <class name="testing_basics.FirstCode"/>
+      <class name="testNG.Soft_Assert"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
